@@ -1,3 +1,3 @@
 <?php
-    echo $_GET['fname']
+    echo 'first name: ' . $_POST['fname']
 ?>
